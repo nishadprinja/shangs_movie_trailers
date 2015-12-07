@@ -4,8 +4,7 @@ A website of trailers for my favorite movies built on Python.
 *Credit for the script 'fresh_tomatoes.py' and the tutorials responsible for the building of this project go to Udacity and their Full Stack Web Developer Nanodegree.*
 
 **To run this app locally:**
-```
-	1. Either download the zip of this repo or git clone using the SSH or HTML link
+``` 1. Either download the zip of this repo or 	   git clone using the SSH or HTML link
 	2. Install [Python](https://www.python.org/)
 	3. Open Idle, the editor that comes with Python
 	4. Open the file 'entertainment_center.py' in Idle
