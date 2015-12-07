@@ -1,5 +1,8 @@
 # shangs_movie_trailers
-A movie trailer website built on python.
+A website with the trailers of my favorite movies built on python.
+
+To view this page live on your web browser, visit:
+http://nishadprinja.github.io/shangs_movie_trailers/
 
 To run this app locally:
 	- Either download the zip of this repo or git clone using the SSH or HTML link
