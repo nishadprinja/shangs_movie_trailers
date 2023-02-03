@@ -8,7 +8,7 @@ trailer using the Movie class in media.py
 '''
 the_rundown = media.Movie("The Rundown",
                           "A bounty hunter tracks down his boss's son",
-                          "http://movies.geourdu.com/wp-content/uploads/2015/07/The-Rundown-2003.jpg",  # noqa
+                          "https://www.themoviedb.org/t/p/original/cwNeP2fz0vqNhmKIcSgLD0xc6g2.jpg",  # noqa
                           "https://www.youtube.com/watch?v=BehhBCBSplY")
 
 the_dark_knight = media.Movie("The Dark Knight",
@@ -38,12 +38,12 @@ shawshank_redemption = media.Movie("The Shawshank Redemption",
 
 rang_de_basanti = media.Movie("Rang De Basanti",
                               "Aimless college kids learn revolution",
-                              "https://upload.wikimedia.org/wikipedia/en/5/5f/RDB_poster.jpg",  # noqa
+                              "https://i.ebayimg.com/images/g/QDMAAOSwPCVX~pHm/s-l1600.jpg",  # noqa
                               "https://www.youtube.com/watch?v=9U5gGXvJxO8")
 
 fight_club = media.Movie("Fight Club",
                          "A man's alter-ego creates an underground cult",
-                         "http://i.jeded.com/i/fight-club.25541.jpg",
+                         "https://i.etsystatic.com/18242346/r/il/c9908e/2412674268/il_1588xN.2412674268_1sgm.jpg",
                          "https://www.youtube.com/watch?v=SUXWAEX2jlg")
 
 the_waterboy = media.Movie("The Waterboy",
